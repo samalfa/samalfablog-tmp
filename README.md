@@ -1,5 +1,5 @@
 # samalfablog
-SamAlfaDev Blog for Share and Note about My Programming &amp; Development.
+SamAlfaBlog for Share and Note about My Programming &amp; Development.
 
 # Type Theme
 
